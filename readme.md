@@ -6,6 +6,8 @@ Made for a specific protection. May not work for all packers.
 
 ## Usage
 
+Push the executable to the target device. Acquire root access and run:
+
 ```shell
 dexdump <Process Name>
 ```
